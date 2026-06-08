@@ -12,6 +12,15 @@
 
   <ItemGroup>
     <None Include=".github\copilot-instructions.md" />
+    <None Include=".github\instructions\architecture.instructions.md" />
+    <None Include=".github\instructions\database.instructions.md" />
+    <None Include=".github\instructions\developer.instructions.md" />
+    <None Include=".github\instructions\qa.instructions.md" />
+    <None Include=".github\prompts\add-migration.prompt.md" />
+    <None Include=".github\prompts\code-review.prompt.md" />
+    <None Include=".github\prompts\debug.prompt.md" />
+    <None Include=".github\prompts\new-endpoint.prompt.md" />
+    <None Include=".github\prompts\write-tests.prompt.md" />
   </ItemGroup>
 
 </Project>

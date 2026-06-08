@@ -3,7 +3,7 @@
 
 **Version:** 1.0  
 **Date:** 2026-06-08  
-**Stack:** .NET 8 · Entity Framework Core · SQL Server  
+**Stack:** .NET 10 · Entity Framework Core · SQL Server  
 
 ---
 
@@ -34,7 +34,7 @@ No external messaging, caching, or background services in v1.0.
 
 | Layer | Technology | Version |
 |-------|-----------|---------|
-| Runtime | .NET | 8.0 |
+| Runtime | .NET | 10.0 |
 | Web Framework | ASP.NET Core Web API | 8.0 |
 | ORM | Entity Framework Core | 8.x |
 | Database | SQL Server | 2019+ |
